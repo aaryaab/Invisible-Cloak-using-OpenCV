@@ -23,9 +23,11 @@ STEP1: Start recording video from webcamera
 
 STEP2: Let the webcamera settle down for few seconds. 
 
-        As soon as the webcamera starts don't pop in front of the         camera. The reason behind this is, as per the time mentioned us,         we are giving time              to             laptop to capture         background, which will help us to become invisible.
+        As soon as the webcamera starts don't pop in front of the camera. The reason behind this is, as per the time mentioned us, we are giving time to 
+        laptop to capture background, which will help us to become invisible.
 
-        If the time is not given and one directly pops in front of               webcamera, in the place of our cloak, instead of the background,         the face of user will               be              masked,         which will be quite hilarious and also polar opposite the use of         Invisible Cloak
+        If the time is not given and one directly pops in front of webcamera, in the place of our cloak, instead of the background, the face of user will
+        be  masked, which will be quite hilarious and also polar opposite the use of Invisible Cloak
 
 STEP3: Capturing the Background 
 
@@ -42,7 +44,7 @@ STEP7: Generating the final output
 
 Some important considerations:
 
-we are using RED colored cloth, but at places there may be tweak in color because of lightening and maybe shadows. So we would not be directly using the threshold of RED color, and select it. We will transform it into HSV (HUE-SATURATION-VALUE). HSV represents color using three parameters
+We are using RED colored cloth, but at places there may be tweak in color because of lightening and maybe shadows. So we would not be directly using the threshold of RED color, and select it. We will transform it into HSV (HUE-SATURATION-VALUE). HSV represents color using three parameters
 
 - Hue: Encodes color Information
 
